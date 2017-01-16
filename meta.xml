@@ -1,0 +1,6 @@
+<meta>
+	<info name="External local OOC chat" description="External local OOC chat." author="Gun22" type="script" />
+
+	<script src="oocchat.cs" type="server" lang="csharp" />
+	<script src="oocchat.js" type="client" lang="javascript" />
+</meta>
